@@ -1,1 +1,1 @@
-Solutions to exercise programs from codewars
+This repository contains my solutions to exercise problems from codewars.
